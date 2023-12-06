@@ -1,2 +1,5 @@
-# C#10 Design Patterns
-Fully functioning sample code for my C#10 Design Patterns course over at Pluralsight.  The samples cover all 23 Gang of Four design patterns, with a real-life example for each pattern.
+# C# 10 Design Patterns
+
+Code samples used during the Design Patterns for C# course at PluralSight. Used to consult future implementations and characteristics of each one.
+
+https://www.pluralsight.com/courses/c-sharp-10-design-patterns
